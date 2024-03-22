@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aJLwftljmCXmC42n7V0wOMNqGN2UcJCDjUDwTd4pi5GbH2H/JK49UKUp0bkqX8ZyX06Bv9X/GO7tt/tLxI+rYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jass Gill\\Desktop\\Test1_CSD215_Jaspreet\\JaspreetF#\\JaspreetF#.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jass Gill\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
